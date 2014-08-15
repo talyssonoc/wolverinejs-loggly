@@ -1,0 +1,23 @@
+{
+  "name": "wolverinejs-loggly",
+  "version": "0.0.1",
+  "description": "Drive for Loggly as output for WolverineJS",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/talyssonoc/wolverinejs-loggly.git"
+  },
+  "keywords": [
+    "log",
+    "logging",
+    "wolverinejs",
+    "loggly"
+  ],
+  "author": {
+    "name": "talyssonoc",
+    "email": "talyssonoc@gmail.com"
+  },
+  "dependencies": {
+    "loggly": "^1.0.4"
+  }
+}
